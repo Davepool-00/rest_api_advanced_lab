@@ -25,6 +25,12 @@ npm start
 ```
 Server starts on: `http://localhost:3000`
 
+## Test
+npm start 
+
+in another terminal
+npm run demo
+
 ## API
 Base URL: `http://localhost:3000`
 
